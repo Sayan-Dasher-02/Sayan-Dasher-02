@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on [Unifind.in](https://github.com/Sumitswappy/MinorProject/tree/master)
 
-- 👨‍💻 All of my projects are available at [https://sayan-mondal-portfolio.netlify.app/](https://sayan-mondal-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Sayan-Mondal-Portfolio](https://sayan-mondal-portfolio.netlify.app/)
 
 - 💬 Ask me about **Java, SQL**
 
 - 📫 How to reach me **sayanmon2021dal@gmail.com**
 
-- 📄 Know about my experiences [https://ln5.sync.com/dl/05bd4aac0#th4wz28u-pksm22ay-z763j8bd-8uxp3dsy](https://ln5.sync.com/dl/05bd4aac0#th4wz28u-pksm22ay-z763j8bd-8uxp3dsy)
+- 📄 Know about my experiences [Sayan-Mondal-Resume](https://ln5.sync.com/dl/05bd4aac0#th4wz28u-pksm22ay-z763j8bd-8uxp3dsy)
 
 - ⚡ Fun fact **I think I am funny.**
 
