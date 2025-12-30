@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-dasher-02&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-dasher-02" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sayan mondal" target="blank"><img src="https://img.shields.io/twitter/follow/sayan mondal?logo=twitter&style=for-the-badge" alt="sayan mondal" /></a> </p>
+<p align="left"> <a href="https://x.com/SayanMondal2002" target="blank"><img src="https://img.shields.io/twitter/follow/sayan mondal?logo=twitter&style=for-the-badge" alt="sayan mondal" /></a> </p>
 
 - 🌱 I’m currently learning **React, Next.JS**
 
@@ -24,12 +24,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sayan mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayan mondal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sayan mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan mondal" height="30" width="40" /></a>
-<a href="https://fb.com/sayan mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan mondal" height="30" width="40" /></a>
-<a href="https://instagram.com/official_sayan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_sayan02" height="30" width="40" /></a>
+<a href="https://x.com/SayanMondal2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayan mondal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sayan-mondal-823416226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan mondal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sayan.mondal.930313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan mondal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/official_sayan02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_sayan02" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sayan mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sayan mondal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sayan mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayan mondal" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Sayan-Mondal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayan mondal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
