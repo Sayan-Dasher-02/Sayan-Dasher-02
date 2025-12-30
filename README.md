@@ -18,6 +18,8 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
+- 🎓 I.m currently persuing my degree in **Master of Computer Application**.
+
 - 🌱 I’m currently learning **React, Next.JS**
 
 - 🔭 I’m currently working on [Journey-Sweet-Sync](https://github.com/Sayan-Dasher-02/journey-sweat-sync)
