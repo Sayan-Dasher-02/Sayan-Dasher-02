@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [Sayan-Mondal-Portfolio](https://sayan-mondal-portfolio.netlify.app/)
 
-- 💬 Ask me about **Java, SQL**
+- 💬 Ask me about **Java, SQL, AWS**
 
 - 📫 How to reach me **sayanmon2021dal@gmail.com**
 
