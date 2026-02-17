@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Anta&size=28&pause=1000&color=483D8B&center=true&vCenter=true&width=650&lines=Hey+There%2C+I'm+Sayan+%F0%9F%91%8B;Full+Stack+Magician+%F0%9F%9A%80;Coding+with+coffee+and+creativity+%E2%98%95;Welcome+to+my+world+%F0%9F%8C%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Anta&size=28&pause=1000&color=99e6ff&center=true&vCenter=true&width=650&lines=Hey+There%2C+I'm+Sayan+%F0%9F%91%8B;Full+Stack+Magician+%F0%9F%9A%80;Coding+with+coffee+and+creativity+%E2%98%95;Welcome+to+my+world+%F0%9F%8C%90" alt="Typing SVG" />
   <p> 
     <a href="https://github.com/Sayan-Dasher-02?tab=followers"> <img src="https://img.shields.io/github/followers/Sayan-Dasher-02?label=Followers&style=for-the-badge&color=DA70D6&labelColor=1B1F23&logo=github" alt="GitHub Followers"/> </a> 
     <a href="https://github.com/Sayan-Dasher-02?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-Check%20them%20out-DA70D6?style=for-the-badge&labelColor=1B1F23&logo=github" alt="Repositories"/> </a> 
