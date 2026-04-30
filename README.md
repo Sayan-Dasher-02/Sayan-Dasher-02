@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Journey-Sweet-Sync](https://github.com/Sayan-Dasher-02/journey-sweat-sync)
 
-- 👯 I’m looking to collaborate on [Unifind.in](https://github.com/Sumitswappy/MinorProject/tree/master)
+- 👯 I’m looking to collaborate on [Unifind.in](https://github.com/Sumitswappy/MinorProject/tree/master) and [NoPlateEmpty](https://github.com/Sayan-Dasher-02/No-Plate-Empty-Website.git)
 
 - 👨‍💻 All of my projects are available at [Sayan-Mondal-Portfolio](https://sayan-mondal-portfolio.netlify.app/)
 
