@@ -14,7 +14,7 @@
 
 - 🎓 I.m currently persuing my degree in **Master of Computer Application**.
 
-- 🌱 I’m currently learning **React, Next.JS**
+- 🌱 I’m currently learning **React.js, Express.js & Python**
 
 - 🔭 I’m currently working on [Journey-Sweet-Sync](https://github.com/Sayan-Dasher-02/journey-sweat-sync)
 
