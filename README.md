@@ -89,25 +89,32 @@
 
 ## 🌐 Connect with me
 
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+
   <a href="mailto:sayanmon2021dal@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" alt="Gmail" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
+
   <a href="https://www.linkedin.com/in/sayan-mondal-823416226/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
+
   <a href="https://instagram.com/official_sayan02" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" alt="Instagram" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
+
   <a href="https://www.facebook.com/sayan.mondal.930313/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" title="Facebook" alt="Facebook" width="40" height="40" style="border-radius:8px; padding:4px; background:#1877f2;"/>
+    <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
   </a>
+
   <a href="https://x.com/SayanMondal2002" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" title="X (Twitter)" alt="X (Twitter)" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
   </a>
+
   <a href="https://github.com/Sayan-Dasher-02" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
+
 </p>
 
 ---
